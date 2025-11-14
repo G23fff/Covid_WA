@@ -1,1 +1,1 @@
-# Covid_WA
+# Covid_case_in_WA
